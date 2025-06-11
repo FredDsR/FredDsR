@@ -11,8 +11,8 @@
 - 📚 Currently researching how **Traditional/Indigenous Knowledge** can intersect with **AI** for **climate emergency mitigation**
 - 💡 Specializing in **Machine Learning**, **Python**, **FastAPI**, and **Fine-Tuning** models
 - 🌱 Passionate about building open source solutions and leveraging tech for social good
-- 🌎 **Climate activist** with [Eco Pelo Clima](https://ecopeloclima.org/)
-- ✍️ Creative writing & 🎵 music enthusiast
+- 🌎 **Climate activist** with Eco Pelo Clima
+- ✍️ Creative writing
 
 ---
 

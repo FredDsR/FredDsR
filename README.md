@@ -1,4 +1,4 @@
-# 👋 Hi, I'm FredDsR (Frederico Reckziegel)
+# 👋 Hi, I'm FredDsR (or just Fred)
 
 **AI Engineer @ TeiaLabs | CS Researcher & Master's Student @ UFRGS**  
 **Researching the intersection of Traditional/Indigenous Knowledge & AI for Climate Emergency Mitigation**  

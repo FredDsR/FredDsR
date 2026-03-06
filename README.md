@@ -19,7 +19,7 @@
 ## 🛠️ Technologies & Skills
 
 - **Languages:** Python, JavaScript, HTML/CSS
-- **Frameworks:** FastAPI, Django, WebGL
+- **Frameworks:** FastAPI, Django, TensorFlow, MCP, Docker and Kubernetes
 - **Expertise:** Machine Learning & AI, Model Fine-Tuning, Backend Development, Open Source
 
 ---
